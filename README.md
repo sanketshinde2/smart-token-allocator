@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.1-brightgreen?style=for-the-badge&logo=springboot)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-SANKET-blue?style=for-the-badge)
 
 ## 📋 Overview
 
@@ -62,7 +62,7 @@ Backend_doc/
 1.  Clone repository or download the source code.
 2.  Navigate to the project root:
     ```cmd
-    cd e:\Projects\Backend_doc
+    cd e:\Projects\Smart-token-allocator
     ```
 
 ---
@@ -122,8 +122,8 @@ Base URL: `http://localhost:8080/api/schedule`
 **POST** `/api/schedule/book`
 ```json
 // Query Params
-?patientName=John Doe
-&contactNumber=9876543210
+?patientName= Sanket Shinde
+&contactNumber=9146393025
 &userIdNumber=UID123
 &source=MOBILE_APP
 &slotId=1
@@ -141,4 +141,5 @@ Base URL: `http://localhost:8080/api/schedule`
 
 ---
 
-*Generated with ❤️ by the OPD Token Engine Team*
+
+
